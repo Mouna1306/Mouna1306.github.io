@@ -1,5 +1,5 @@
 * {
-    max-width: 700px;
+    max-width: 1000px;
     margin: auto;
   }
   
@@ -8,6 +8,11 @@
       min-width: 500px;
   }*/
   
+  .cote {
+    grid-area: left-column;
+    padding: 50px;
+  }
+
   .photo_id {
     width: 50px;
   }
