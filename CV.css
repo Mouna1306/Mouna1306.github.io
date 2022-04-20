@@ -9,8 +9,7 @@
   }*/
   
   .cote {
-    grid-area: left-column;
-    padding: 50px;
+    width: 250px;
   }
 
   .photo_id {
