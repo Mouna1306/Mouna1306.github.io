@@ -12,10 +12,12 @@ body{
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 a:hover{
     text-decoration: underline;
+    color: black;
 }
 
 
@@ -104,7 +106,7 @@ h2{
 .cote{
     grid-area: left-column;
     padding: 50px;
-    background-color: blue;
+    background-color:blue;
     color: white;
 }
 
@@ -171,7 +173,7 @@ h2{
 }
 
 .liens-menu {
-    color: white;
+    color:white;
     display:block;
     text-align: center;
     padding: 5px 10px;
