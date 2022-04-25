@@ -41,6 +41,7 @@ h2{
 
 
 
+
 #Nom {
     font-size:40px;
     font-weight:900;
@@ -159,7 +160,7 @@ h2{
     overflow: hidden;
     background-image: url("Ban.jpeg");
     background-size: cover;
-    height: 160px;
+    height: 180px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.24);;
     
 }
@@ -174,7 +175,6 @@ h2{
     background-color:rgb(19, 139, 166);
     box-shadow: 0 5px 7px rgba(0,0,0,0.12), 0 5px 7px rgba(0,0,0,0.24);;
 }
-
 
 a.liens-menu {
     text-decoration: none;
