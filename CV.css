@@ -40,12 +40,11 @@ h2{
 }
 
 
-
-
 #Nom {
     font-size:40px;
     font-weight:900;
     margin:5%;
+    color: rgb(19, 139, 166);
     margin-left: 70px;
     margin-bottom: 0%;
     
@@ -55,7 +54,9 @@ h2{
     font-weight:900;
     margin:5%;
     margin-top: 0%;
-    margin-left: 150px;
+    font-style: italic;
+    font-family: fantasy;
+    margin-left: 100px;
     
 }
 
@@ -88,7 +89,6 @@ h2{
 }
 
 .cv {
-
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: "left-column right-column right-column";
@@ -136,12 +136,6 @@ h2{
     justify-content: center;
 }
 
-.infos{
-    columns: 2;
-    list-style-type: none;
-    padding: 0;
-}
-
 
 .contenu{
     grid-area: content;
@@ -150,7 +144,7 @@ h2{
 }
 
 .experience-list{
-    list-style-type: circle;
+    list-style-type:circle;
 }
 
 #liste-menu {
