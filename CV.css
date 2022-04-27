@@ -4,7 +4,6 @@
 }
 
 body{
-    font-weight: 300;
     font-size:large;
     line-height: 1.5;
     background-color: #dcdbd0;
@@ -29,16 +28,20 @@ a:visited {
 
 
 h1{
-    margin: 10px;
     font-size:large;
     margin-bottom: 5px;
+    font-weight:900;
+    margin:5%;
+    margin-top: 0%;
+    font-style: italic;
+    font-family: fantasy;
+    margin-left: 100px;
 }
 
 h2{
-    margin: 0;
     letter-spacing: 1px;
     text-transform: uppercase;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid rgb(71, 67, 67);
 }
 
 
@@ -52,19 +55,10 @@ h2{
     
 }
 
-#description {
-    font-weight:900;
-    margin:5%;
-    margin-top: 0%;
-    font-style: italic;
-    font-family: fantasy;
-    margin-left: 100px;
-    
-}
 
 .text-color{
     color: #273931;
-    margin: 0;
+
 }
 
 
@@ -116,7 +110,8 @@ h2{
 
 .photo_id{
     border-radius: 7%;
-    max-width: 200px;
+    max-width: 205px;
+    border: solid 1px white;
     margin: auto;
     display: block;
     margin-bottom: 50px;
@@ -144,9 +139,7 @@ h2{
 
 
 .contenu{
-    grid-area: content;
     padding: 50px;
-    margin-top: 0;
 }
 
 .experience-list{
@@ -155,7 +148,6 @@ h2{
 
 #liste-menu {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     background-image: url("https://i.pinimg.com/originals/b9/1d/e5/b91de583dc2cef49426c22ae8fe36f18.jpg");
     background-size: cover;
