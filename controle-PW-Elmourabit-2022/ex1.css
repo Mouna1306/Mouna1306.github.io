@@ -44,15 +44,16 @@
     text-decoration: underline;
     margin-left: 25%;
     margin-right: 25%;
+
 }
 
 #section2-1 {
-    border: solid 1px black;
+   padding:1%;
     background-color:rgb(183, 182, 182);
 }
 
 #section2-2 {
-    border: solid 1px black;
+    padding: 1%;
     background-color:rgb(183, 182, 182);
     
 
