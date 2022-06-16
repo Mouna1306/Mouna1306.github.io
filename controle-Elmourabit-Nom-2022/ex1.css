@@ -1,0 +1,17 @@
+.format {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "left-column middle-column middle-column right-column";
+}
+
+.section {
+    grid-area: left-column;
+    border: solid 1px black;
+    margin: 300px;
+}
+
+
+#section-bas {
+    border: solid 1px black;
+    margin-top: 300px;
+}
