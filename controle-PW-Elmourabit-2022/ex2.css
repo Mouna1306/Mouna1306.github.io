@@ -42,7 +42,7 @@ a:hover{
  }
 
 
- #introduction {
+.texte {
      margin: 50px;
      font-family: 'Times New Roman', Times, serif;
      font-size: large;
@@ -60,10 +60,10 @@ a:hover{
  .chapeau {
      text-align: center;
      justify-content: center;
-     width:70%;
+     width:90%;
      margin: 50px;
-     margin-left: 5cm;
-     font-size: large;
+     margin-left: 2cm;
+     font-size: x-large;
  }
 
 
