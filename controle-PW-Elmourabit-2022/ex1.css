@@ -42,6 +42,8 @@
     font-size:xx-large;
     background-color: rgb(222, 221, 221);
     text-decoration: underline;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 #section2-1 {
@@ -52,7 +54,7 @@
 #section2-2 {
     border: solid 1px black;
     background-color:rgb(183, 182, 182);
-    padding: 50px;
+    
 
 }
 
@@ -67,8 +69,9 @@
 #p2-2 {
     width: 75%;
     text-align: justify;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border-left: solid 2px black;
     border-right: solid 2px black;
     padding: 15px;
